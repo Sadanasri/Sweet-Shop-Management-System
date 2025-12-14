@@ -1,6 +1,7 @@
 <img width="1858" height="1077" alt="image" src="https://github.com/user-attachments/assets/6aca4ae7-a897-4629-af79-c5bd6af05f3d" /># Sweet Shop Management System (AI Kata – TDD)
 
-## Project Explanation
+<img width="1919" height="1024" alt="Screenshot 2025-12-14 122242" src="https://github.com/user-attachments/assets/d6acdd3f-b291-4838-ab38-1da41e7e923b" />
+## Project Explanatio
 The Sweet Shop Management System is a full-stack web application designed to manage sweets, inventory, users, and orders.  
 It allows users to register, log in, browse available sweets, search by category or price, and purchase items.  
 Admin users can add, update, restock, and delete sweets, as well as manage inventory.
